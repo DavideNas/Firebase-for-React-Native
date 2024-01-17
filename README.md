@@ -131,8 +131,7 @@ Dovrai scrivere su un file temporaneo (crea un semplice file txt sul tuo desktop
   - **SHA1** della chiave di debug, il path dovrebbe essere simile a
     **Store: "C:\Users\myuser\Develop\React-Native\MyApp\android\app\debug.keystore"**
 
-Da Firebase Console:
---------------------
+##### _Da Firebase Console_
 
 1. Torna sulla console firebase e seleziona al progetto creato in precedenza.
 2. In alto clicca sul bototne **"Aggiungi app"** e seleziona l'**icona di Android**.
