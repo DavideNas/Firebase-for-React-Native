@@ -164,6 +164,10 @@ poi installa quelli che vuoi implementare (da console Firebase):
 
     npm install --save @react-native-firebase/auth
 
+**Per Google Auth**
+
+    npm i @react-native-google-signin/google-signin
+
 **Per Facebook Auth**
     
     npm install --save react-native-fbsdk-next
