@@ -180,8 +180,7 @@ poi installa quelli che vuoi implementare (da console Firebase):
 SETUP DI ANDROID PER FIREBASE:
 ==============================
 
-Da VSCode:
-----------
+##### _Da VSCode_
 
 Apri il file `android/app/build.gradle`, poi aggiungi le seguenti righe come segue:
 
